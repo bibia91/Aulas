@@ -12,3 +12,17 @@
 .direita{
     text-align: right;
 }
+
+.cor-solida{
+    background-color: cadetblue;
+}
+
+.gradiente{
+    background: linear-gradient(lightblue,pink,lightgreen);
+}
+
+.imagem{
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNK1igC4UOucFiJwvxpdY8XVt43tXJaUMAy-X12dGbtc7o9Klt);
+    background-size: cover;
+    background-position: center;
+}
